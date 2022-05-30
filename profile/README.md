@@ -16,7 +16,7 @@
 | [엄성훈](https://github.com/cbjjzzang)|<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>|
 
 ## 👩‍🎓 서비스 소개
-<img src=https://files.slack.com/files-pri/T01L2TNGW3T-F03J53STVGQ/architecture.drawio.png/>
+<img src="https://files.slack.com/files-pri/T01L2TNGW3T-F03J53STVGQ/architecture.drawio.png"/>
 
 [물물박사 바로가기](https://moolmooldoctor.firebaseapp.com)
 
