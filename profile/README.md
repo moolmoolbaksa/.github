@@ -16,8 +16,6 @@
 | [엄성훈](https://github.com/cbjjzzang)|<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>|
 
 ## 👩‍🎓 서비스 소개
-<img src="https://user-images.githubusercontent.com/35252854/170906536-028c738f-22c8-4098-96d2-e6150feb0a36.png"/>
-
 [물물박사 바로가기](https://moolmooldoctor.firebaseapp.com)
 
 [서비스 시연영상]()
@@ -25,17 +23,20 @@
 [발표 영상]()
 
 ## 📆 프로젝트 기간
-
 2022/04/22 ~ 2022/06/03
-
 배포 2022/05/24
 
 ## ⚙ 주요 기능
-**`보따리(인벤토리) 기반의 사용별 교환상품 등록`**
+**`보따리(인벤토리) 기반의 사용자별 교환상품 등록`**
 
 **`교환상품의 6가지 교환 상태 변화 컨트롤`**
 
 **`교환상품의 일대다 거래`**
+
+**`웹소켓 기반의 실시간 채팅과 알림 기능`**
+
+**`차단과 신고, 욕설 필터링 등의 회원 관리 기능`**
+
 
 ## 🗺 API 설계
 [API 설계 보러가기](https://www.notion.so/b308c025e9954cadb9fdc19d86bd411f?v=b6b1eb52cfe24793b97163d7b4825b07)
@@ -59,14 +60,3 @@
 <img src="https://img.shields.io/badge/AWS CodeDeploy-6DB33F??style=flat&logo=AWS Codedeploy&logoColor=white"> <img src="https://img.shields.io/badge/Apache JMeter-D22128?style=flat&logo=Apache JMeter&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"> <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat&logo=spring security&logoColor=white">
 
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
